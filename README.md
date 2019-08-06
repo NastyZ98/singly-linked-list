@@ -15,3 +15,5 @@ void displayList(List_t *list);
 Valgring free (No leak)
 
 Epitech students be carefull, using my code can result of a -42 mark (:
+
+Compile using ```make``` or with my docker-compile script for macOS users ```docker-compile ./ -m -v linked-list```
